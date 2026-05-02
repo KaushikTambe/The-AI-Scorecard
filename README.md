@@ -1,5 +1,5 @@
 # 🤖 The AI Scorecard — Power BI Dashboard
-Screenshot The AI Scorecard.png
+![The AI Scorecard](Screenshot%20The%20AI%20Scorecard.png)
 
 ## 📊 Project Overview
 A live interactive Power BI dashboard tracking and comparing 
